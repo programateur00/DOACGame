@@ -152,6 +152,10 @@ const sentences = [
     text: "-If you could go back to one era in civilization, what era would you pick? Why? And what would your job be?",
     animation: "fadeIn",
   },
+  {
+    text: "-When you are near the end of your life and looking back over it, what will you be proudest of? And what will you regret the most?",
+    animation: "fadeIn",
+  },
       // Add more sentences below
 
 
