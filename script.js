@@ -156,6 +156,10 @@ const sentences = [
     text: "-When you are near the end of your life and looking back over it, what will you be proudest of? And what will you regret the most?",
     animation: "fadeIn",
   },
+  {
+    text: "-Do you think obesity is a choice?",
+    animation: "fadeIn",
+  },
       // Add more sentences below
 
 
